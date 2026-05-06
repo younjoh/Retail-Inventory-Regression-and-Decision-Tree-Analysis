@@ -1,0 +1,2 @@
+Here is my school project of EDA analysis, multiple linear regression, time series forecasting, and decision tree/random forests methods. I use tools like pandas and lang chain to read a data set, analyze it, 
+and then make a model to predict units sold for future years. I will be using hypothesis testing and visual graphs to obeserve my work. All of this code will be done in python/jupyter notebook.
